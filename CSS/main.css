@@ -14,7 +14,7 @@ hr {
 }
 
 .occupation {
-    padding-top: 1.5%;
+    padding-top: 2%;
     text-align: right;
 }
 
@@ -29,6 +29,11 @@ hr {
 h2.spoon{
     text-align: center;
     color: white;
+}
+
+.projects img{
+    height: 236px;
+    width: 100%;
 }
 
 #footy {
