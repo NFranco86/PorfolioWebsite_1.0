@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+p{
+    color: white
+}
+
+hr {
+    border: none; 
+    height: 0.35em;
+    color: #222;
+    background-color: white;
+}
+
+.occupation {
+    padding-top: 1.5%;
+    text-align: right;
+}
+
+.my-name {
+    font-size: 3em;
+}
+
+.aka {
+    font-size: 1.5em;
+}
+
+h2.spoon{
+    text-align: center;
+    color: white;
+}
+
+#footy {
+    text-align: center;
+}
